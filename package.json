@@ -18,7 +18,7 @@
     "postversion": "git push && git push --tags"
   },
   "devDependencies": {
-    "prettier": "^1.15.3",
+    "prettier": "^2.0.5",
     "sort-package-json": "^1.17.0",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.17.0",
